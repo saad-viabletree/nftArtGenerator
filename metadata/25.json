@@ -1,0 +1,37 @@
+{
+    "hash": "",
+    "decodedHash": [
+        {
+            "1": 1
+        },
+        {
+            "2": 3
+        },
+        {
+            "3": 3
+        }
+    ],
+    "edition": 25,
+    "date": 1669646305298,
+    "image": "ipfs://QmSnqrFf2FV1AzfAUUcisGE8SwoLNH5dowUdXJMwQProQU/25.png",
+    "attributes": [
+        {
+            "id": 1,
+            "layer": "background",
+            "name": "bg1",
+            "rarity": "original"
+        },
+        {
+            "id": 3,
+            "layer": "body",
+            "name": "body3",
+            "rarity": "original"
+        },
+        {
+            "id": 3,
+            "layer": "head",
+            "name": "head3",
+            "rarity": "super rare"
+        }
+    ]
+}

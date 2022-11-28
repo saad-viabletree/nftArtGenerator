@@ -1,0 +1,37 @@
+{
+    "hash": "",
+    "decodedHash": [
+        {
+            "1": 1
+        },
+        {
+            "2": 4
+        },
+        {
+            "3": 2
+        }
+    ],
+    "edition": 29,
+    "date": 1669646307899,
+    "image": "ipfs://QmSnqrFf2FV1AzfAUUcisGE8SwoLNH5dowUdXJMwQProQU/29.png",
+    "attributes": [
+        {
+            "id": 1,
+            "layer": "background",
+            "name": "bg1",
+            "rarity": "original"
+        },
+        {
+            "id": 4,
+            "layer": "body",
+            "name": "body4",
+            "rarity": "original"
+        },
+        {
+            "id": 2,
+            "layer": "head",
+            "name": "head2",
+            "rarity": "original"
+        }
+    ]
+}
